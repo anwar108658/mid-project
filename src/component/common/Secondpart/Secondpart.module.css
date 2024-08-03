@@ -1,0 +1,19 @@
+.body-container{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    margin: 0px 150px;
+}
+.body-img{
+    width: 500px;
+}
+.body-pera p{
+    margin-bottom: 20px;
+}
+.body-container p{
+    font-size: 70px;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    line-height: 60px;
+}

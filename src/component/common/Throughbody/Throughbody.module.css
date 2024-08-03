@@ -1,0 +1,58 @@
+.body-about{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: rgb(239, 247, 239);
+    margin-bottom: 40px;
+}
+.body-about-pera{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.body-about-child{
+    text-align: center;
+}
+.body-about-pera h2{
+    font-size: 28px;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+.body-about-pera p{
+    font-size: 22px;
+    font-weight: 100;
+    color: #444;
+}
+.body-about-image{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin: 0px 130px 50px 130px;
+}
+.body-about-same-image{
+    padding-bottom:40;
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+}
+.body-about-image h2{
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.body-about-intro-title{
+    margin-bottom: 15px;
+}
+.body-about-image p{
+    font-size: 20px;
+    font-weight: 100;
+    color: #555;
+}
+.body-about-content{
+    text-align: left;
+    margin: 0px 300px 0px 350px;
+}
+.body-about-content p{
+    font-size: 20px;
+    font-weight: 100;
+    color: #555;
+    margin-bottom: 30px;
+}

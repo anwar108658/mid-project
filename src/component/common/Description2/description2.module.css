@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 50px;
+    gap: 70px;
+}
+.image{
+    width: 500px;
+    box-shadow: 2px 2px 25px 4px #ccc;
+}
+.second-child-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.second-child-container h2{
+    font-size: 45px;
+    font-weight: 300;
+}
+.second-child-container p{
+    line-height: 30px;
+}
+.second-child-container button{
+    width: 200px;
+}

@@ -1,0 +1,80 @@
+.body-main-form-container{
+    padding: 50px 0px 50px 0px;
+    background-color: rgb(239, 247, 239);
+    margin-bottom: 50px;
+}
+.main-pera{
+    margin-bottom: 150px;
+}
+.body-child-form-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.form{
+    padding: 70px 35px 70px 35px;
+    background-color: #fff;
+    box-shadow: 5px 5px 34px #ccc;
+}
+.form h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
+.form-control{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.form-control input{
+    background-color: #e3eeea;
+    border: none;
+    outline: none;
+    margin-right: 8px;
+    width: 400px;
+    height: 40px;
+    border-radius: 9px;
+    padding: 5px;
+    font-size: 20px;
+}
+.form-textarea{
+    background-color: #e3eeea;
+    border: none;
+    outline: none;
+    border-radius: 9px;
+    padding: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.form-btn{
+    cursor: pointer;
+    padding: 8px 15px 8px 15px;
+    width: max-content;
+    font-size: 17px;
+    color: #fff;
+    background-color: rgb(23, 82, 116);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.check{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.check p{
+    font-size: 20px;
+    color: #555;
+}
+.form-right{
+    padding: 15px 70px 15px 15px;
+    background-color: rgb(23, 82, 116);
+}
+.form-right h2{
+    color: #fff;
+    padding-bottom: 8px;
+}
+.form-right p{
+    font-size: 20px;
+    color: #eee;
+    padding-bottom: 8px;
+}

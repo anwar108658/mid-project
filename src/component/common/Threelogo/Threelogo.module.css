@@ -1,0 +1,24 @@
+
+.body-supported-pera{
+    text-align: center;
+    margin: 0px 220px 60px 220px;
+}
+.body-supported-pera h2{
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.body-supported-pera p{
+    font-size: 20px;
+    font-weight: 100;
+    color: #555;
+}
+.body-content-card-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+}
+.body-content-card-image img{
+    width: 260PX;
+}
